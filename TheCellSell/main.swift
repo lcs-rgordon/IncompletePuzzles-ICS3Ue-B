@@ -32,8 +32,6 @@ let evening = Int(readLine()!)!
 print("Number of weekend minutes?")
 let weekend = Int(readLine()!)!
 
-// INPUT
-
 // PROCESS
 //
 // NOTE: To unit test logic you have written, it must be encapsulated (described) within a function.
